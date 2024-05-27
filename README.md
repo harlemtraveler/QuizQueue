@@ -11,7 +11,6 @@ Follow step-by-step instructions to install the necessary components.
     ```sh
     git clone https://github.com/QuizQueue/QuizQueue.git
     
-    cd your-repo-name
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
