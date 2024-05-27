@@ -9,7 +9,8 @@ Follow step-by-step instructions to install the necessary components.
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/QuizQueue/QuizQueue.git
+    
     cd your-repo-name
     ```
 
