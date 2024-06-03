@@ -47,7 +47,7 @@ Explain how to run your code. Include examples of the commands that should be us
 3. **Running the script:**
 
     ```sh
-    chainlit run quizQueue.py
+    python run app.py
     ```
 
 
